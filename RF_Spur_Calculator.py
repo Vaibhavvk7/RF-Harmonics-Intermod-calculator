@@ -1,8 +1,4 @@
-'''
-Author: Suryakiran Menachery George
-Date: March-19-2018 ver1
-Date: March-22-2018 final
-Purpose: EE 544 Mini Project, Harmonics & Inter-modulation Products Calculator
+'''Harmonics & Inter-modulation Products Calculator
 '''
 
 import sys
